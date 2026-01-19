@@ -1,7 +1,18 @@
-:root .clanTagChiplet_c19a55, .clanTag__07f91, .clanTag__972a0, .clanTag__5d473, .memberClanTag__71c22, .wallpaperContainer__5fa7b, .clanTag__07f91, .clanTag__5d473, .clanTag__972a0 {
+:root ._44b0c28be7879b7b-avatarDecoration,
+:root ._4bbc6dc06e75ad52-videoContainer,
+:root ._0137000bc80ab6ea-profileEffects,
+:root .c19a557985eb7793-avatarDecoration,
+:root ._972a0d22c8afa7f0-clanTag,
+:root ._07f9193042954787-clanTag,
+:root .c19a557985eb7793-clanTagChiplet,
+:root ._789365ddb50399a0-effectsWrapper {
     display: none;
 }
 
-:root .premiumSubscribeButton_e00877 {
-    display: none;
+:root ._2f4f7eb58b61c328-tile._90dc5e06d05dc634-tile {
+    background-image: none !important;
+}
+
+:root ._4bbc6dc06e75ad52-container {
+    background: inherit !important;
 }
