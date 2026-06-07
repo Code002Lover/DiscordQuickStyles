@@ -1,18 +1,23 @@
-:root ._44b0c28be7879b7b-avatarDecoration,
-:root ._4bbc6dc06e75ad52-videoContainer,
-:root ._0137000bc80ab6ea-profileEffects,
-:root .c19a557985eb7793-avatarDecoration,
-:root ._972a0d22c8afa7f0-clanTag,
-:root ._07f9193042954787-clanTag,
-:root .c19a557985eb7793-clanTagChiplet,
-:root ._789365ddb50399a0-effectsWrapper {
+:root .avatarDecoration__44b0c,
+:root .videoContainer__4bbc6,
+:root .profileEffects__01370,
+:root .avatarDecoration_c19a55,
+:root .clanTag__972a0,
+:root .clanTag__07f91,
+:root .clanTagChiplet_c19a55,
+:root .effectsWrapper__78936 {
     display: none;
 }
 
-:root ._2f4f7eb58b61c328-tile._90dc5e06d05dc634-tile {
+:root .tile__2f4f7.tile__90dc5 {
     background-image: none !important;
 }
 
-:root ._4bbc6dc06e75ad52-container {
+:root .container__4bbc6 {
     background: inherit !important;
+}
+
+
+:root div.topControls_bfe55a.controlSection_bfe55a > div > div.headerWrapper_cb9592 > div.subtitleContainer__49508 > div.wrapper__19b5e {
+    display: none;
 }
